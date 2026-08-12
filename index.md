@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Privacy Policy
+title: Bible Timeline — Privacy Policy
 ---
 
-**Last updated: 13 April 2026**
+# Bible Timeline — Privacy Policy
 
-This Privacy Policy describes how Andre D. Lopes Santos ("we", "us", or "our") handles information in connection with the Scripture Timeline mobile application (the "App").
+**Last updated: 12 August 2026**
 
-We have designed the App to collect as little personal information as possible. Please read this policy carefully.
+This Privacy Policy describes how DsDevLab / Andre D. Lopes Santos ("we", "us", or "our") handles information in connection with the **Bible Timeline** mobile application (Android package / iOS bundle id `com.scripturehub.bibletimeline`), published on Google Play and the Apple App Store under the developer name **DsDevLab**, operated by Andre D. Lopes Santos (the legal entity responsible). Please read this policy carefully.
+
+We have designed the App to collect as little personal information as possible.
 
 ## 1. Information We Do Not Collect
 
@@ -50,6 +52,6 @@ If we add features in the future that involve collecting personal data (for exam
 
 If you have questions about this Privacy Policy, please contact:
 
-Andre D. Lopes Santos
+DsDevLab — Andre D. Lopes Santos
 Email: dsdevlabsh@gmail.com
 Country: Portugal
